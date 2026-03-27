@@ -12,6 +12,13 @@ def sort(lst):
 sort(lst)
 print(lst)
 
+class Learning():
+    def __init__(self):
+        self.a=25
+        self.b=10
+
+
+
 
 
 
